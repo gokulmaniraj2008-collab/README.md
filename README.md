@@ -31,7 +31,6 @@ gokul:
   stack: ["Next.js", "Supabase", "TypeScript", "Cloudinary", "Razorpay"]
   also_ships: "Single-file HTML/JS games and tools (Three.js, localStorage apps)"
   interests: ["Land investment", "Passive income systems"]
-  also_on: "YouTube - Dammi D"
   reach_me: "YOUR_EMAIL_HERE"
   fun_fact: "Builds entirely from mobile - no laptop"
 ```
@@ -49,9 +48,6 @@ gokul:
   </a>
   <a href="https://github.com/gokulmaniraj2008-collab">
     <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="github"/>
-  </a>
-  <a href="https://www.youtube.com/@DammiD-l5l">
-    <img src="https://img.shields.io/badge/YouTube-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e" alt="youtube"/>
   </a>
 </p>
 
@@ -87,6 +83,31 @@ gokul:
 <br/>
 
 <h2 align="left">
+  <img src="https://media.giphy.com/media/xUOxfjsW2QhBBOsgWo/giphy.gif" width="30"/>
+  Featured Projects
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/gokulmaniraj2008-collab/GKFXL">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=GKFXL&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/gokulmaniraj2008-collab/GGE">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=GGE&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9"/>
+</a>
+<br/>
+<a href="https://github.com/gokulmaniraj2008-collab/TANNE">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=TANNE&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/gokulmaniraj2008-collab/Money-tracker-">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulmaniraj2008-collab&repo=Money-tracker-&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+<br/>
+
+<h2 align="left">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"/>
   GitHub Analytics
 </h2>
@@ -98,6 +119,14 @@ gokul:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulmaniraj2008-collab&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=c9d1d9" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gokulmaniraj2008-collab&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulmaniraj2008-collab&theme=radical&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=c9d1d9&hide_border=true" alt="activity graph" width="100%"/>
 </div>
 
 <br/>
